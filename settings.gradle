@@ -1,1 +1,1 @@
-include ':app'
+include ':app', ':mvp-dagger2-retrofit', ':rxjoke', ':org.hokas.getui', ':citypickerview', ':citypickdemo', ':threecity', ':swipt', ':expandable'

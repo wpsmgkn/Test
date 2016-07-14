@@ -4,6 +4,14 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Test.iml" filepath="$PROJECT_DIR$/Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/citypickdemo/citypickdemo.iml" filepath="$PROJECT_DIR$/citypickdemo/citypickdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/citypickerview/citypickerview.iml" filepath="$PROJECT_DIR$/citypickerview/citypickerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/expandable/expandable.iml" filepath="$PROJECT_DIR$/expandable/expandable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvp-dagger2-retrofit/mvp-dagger2-retrofit.iml" filepath="$PROJECT_DIR$/mvp-dagger2-retrofit/mvp-dagger2-retrofit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.hokas.getui/org.hokas.getui.iml" filepath="$PROJECT_DIR$/org.hokas.getui/org.hokas.getui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxjoke/rxjoke.iml" filepath="$PROJECT_DIR$/rxjoke/rxjoke.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swipt/swipt.iml" filepath="$PROJECT_DIR$/swipt/swipt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threecity/threecity.iml" filepath="$PROJECT_DIR$/threecity/threecity.iml" />
     </modules>
   </component>
 </project>

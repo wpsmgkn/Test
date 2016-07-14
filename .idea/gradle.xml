@@ -10,6 +10,14 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/citypickdemo" />
+            <option value="$PROJECT_DIR$/citypickerview" />
+            <option value="$PROJECT_DIR$/expandable" />
+            <option value="$PROJECT_DIR$/mvp-dagger2-retrofit" />
+            <option value="$PROJECT_DIR$/org.hokas.getui" />
+            <option value="$PROJECT_DIR$/rxjoke" />
+            <option value="$PROJECT_DIR$/swipt" />
+            <option value="$PROJECT_DIR$/threecity" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
