@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/FlycoDialog_Lib/FlycoDialog_Lib.iml" filepath="$PROJECT_DIR$/FlycoDialog_Lib/FlycoDialog_Lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Flycodialog/Flycodialog.iml" filepath="$PROJECT_DIR$/Flycodialog/Flycodialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PushDemo/PushDemo.iml" filepath="$PROJECT_DIR$/PushDemo/PushDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test.iml" filepath="$PROJECT_DIR$/Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/citypickdemo/citypickdemo.iml" filepath="$PROJECT_DIR$/citypickdemo/citypickdemo.iml" />
@@ -12,6 +15,9 @@
       <module fileurl="file://$PROJECT_DIR$/rxjoke/rxjoke.iml" filepath="$PROJECT_DIR$/rxjoke/rxjoke.iml" />
       <module fileurl="file://$PROJECT_DIR$/swipt/swipt.iml" filepath="$PROJECT_DIR$/swipt/swipt.iml" />
       <module fileurl="file://$PROJECT_DIR$/threecity/threecity.iml" filepath="$PROJECT_DIR$/threecity/threecity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/update/update.iml" filepath="$PROJECT_DIR$/update/update.iml" />
+      <module fileurl="file://$PROJECT_DIR$/updatetest/updatetest.iml" filepath="$PROJECT_DIR$/updatetest/updatetest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xrecyclerview/xrecyclerview.iml" filepath="$PROJECT_DIR$/xrecyclerview/xrecyclerview.iml" />
     </modules>
   </component>
 </project>

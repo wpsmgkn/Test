@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\Test\\PushDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\all_button_only_bg.9.png",
+        "source": "D:\\AndroidStudioProjects\\Test\\PushDemo\\res\\drawable-xhdpi\\all_button_only_bg.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Test\\PushDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\all_button_only_bg_2.9.png",
+        "source": "D:\\AndroidStudioProjects\\Test\\PushDemo\\res\\drawable-xhdpi\\all_button_only_bg_2.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Test\\PushDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\mipush_logo.png",
+        "source": "D:\\AndroidStudioProjects\\Test\\PushDemo\\res\\drawable-xhdpi\\mipush_logo.png"
+    }
+]

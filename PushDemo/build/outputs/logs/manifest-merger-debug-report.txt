@@ -1,0 +1,195 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:2:1-96:12
+	package
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:3:5-32
+		INJECTED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:5:5-30
+		INJECTED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:4:5-28
+		INJECTED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\AndroidStudioProjects\Test\PushDemo\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\AndroidStudioProjects\Test\PushDemo\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\AndroidStudioProjects\Test\PushDemo\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:9:9-38
+		INJECTED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:8:9-34
+		INJECTED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.INTERNET
+ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:14:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:15:22-72
+uses-permission#android.permission.GET_TASKS
+ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:16:5-68
+	android:name
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:16:22-65
+permission#com.xiankezu.zzxc.permission.MIPUSH_RECEIVE
+ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:18:5-20:47
+	android:protectionLevel
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:20:9-44
+	android:name
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:19:9-67
+uses-permission#com.xiankezu.zzxc.permission.MIPUSH_RECEIVE
+ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:22:5-83
+	android:name
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:22:22-80
+uses-permission#android.permission.VIBRATE
+ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:23:5-66
+	android:name
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:23:22-63
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:25:5-88
+	android:name
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:25:30-85
+application
+ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:27:5-94:19
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\AndroidStudioProjects\Test\PushDemo\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\AndroidStudioProjects\Test\PushDemo\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\AndroidStudioProjects\Test\PushDemo\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:30:9-41
+	android:icon
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:29:9-45
+	android:theme
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:31:9-40
+	android:name
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:28:9-61
+activity#com.xiaomi.mipushdemo.MainActivity
+ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:32:9-40:20
+	android:label
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:34:13-45
+	android:name
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:33:13-62
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:38:27-74
+service#com.xiaomi.push.service.XMJobService
+ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:42:9-47:46
+	android:enabled
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:44:13-35
+	android:process
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:47:13-43
+	android:exported
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:45:13-37
+	android:permission
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:46:13-69
+	android:name
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:43:13-64
+service#com.xiaomi.push.service.XMPushService
+ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:48:9-51:46
+	android:enabled
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:50:13-35
+	android:process
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:51:13-43
+	android:name
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:49:13-65
+service#com.xiaomi.mipush.sdk.PushMessageHandler
+ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:52:9-55:39
+	android:enabled
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:54:13-35
+	android:exported
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:55:13-36
+	android:name
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:53:13-68
+service#com.xiaomi.mipush.sdk.MessageHandleService
+ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:56:9-58:38
+	android:enabled
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:58:13-35
+	android:name
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:57:13-70
+receiver#com.xiaomi.mipushdemo.DemoMessageReceiver
+ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:60:9-72:20
+	android:exported
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:62:13-36
+	android:name
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:61:13-69
+intent-filter#com.xiaomi.mipush.RECEIVE_MESSAGE
+ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:63:13-65:29
+action#com.xiaomi.mipush.RECEIVE_MESSAGE
+ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:64:17-76
+	android:name
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:64:25-73
+intent-filter#com.xiaomi.mipush.MESSAGE_ARRIVED
+ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:66:13-68:29
+action#com.xiaomi.mipush.MESSAGE_ARRIVED
+ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:67:17-76
+	android:name
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:67:25-73
+intent-filter#com.xiaomi.mipush.ERROR
+ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:69:13-71:29
+action#com.xiaomi.mipush.ERROR
+ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:70:17-66
+	android:name
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:70:25-63
+receiver#com.xiaomi.push.service.receivers.NetworkStatusReceiver
+ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:73:9-81:20
+	android:exported
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:75:13-36
+	android:name
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:74:13-83
+intent-filter#android.intent.category.DEFAULT+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:76:13-80:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:77:17-79
+	android:name
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:77:25-76
+category#android.intent.category.DEFAULT
+ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:79:17-76
+	android:name
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:79:27-73
+receiver#com.xiaomi.push.service.receivers.PingReceiver
+ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:82:9-89:20
+	android:process
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:85:13-43
+	android:exported
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:84:13-37
+	android:name
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:83:13-74
+intent-filter#com.xiaomi.push.PING_TIMER
+ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:86:13-88:29
+action#com.xiaomi.push.PING_TIMER
+ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:87:17-69
+	android:name
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:87:25-66
+activity#com.xiaomi.mipushdemo.SettingsActivity
+ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:91:9-93:72
+	android:label
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:93:13-60
+	android:name
+		ADDED from D:\AndroidStudioProjects\Test\PushDemo\AndroidManifest.xml:92:13-66

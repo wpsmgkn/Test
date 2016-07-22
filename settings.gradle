@@ -1,1 +1,2 @@
-include ':app', ':mvp-dagger2-retrofit', ':rxjoke', ':org.hokas.getui', ':citypickerview', ':citypickdemo', ':threecity', ':swipt', ':expandable'
+include ':app', ':mvp-dagger2-retrofit', ':rxjoke', ':org.hokas.getui', ':update', ':xrecyclerview',
+        ':citypickerview', ':citypickdemo', ':threecity', ':swipt', ':expandable', ':updatetest', ':Flycodialog', ':FlycoDialog_Lib', ':PushDemo'

@@ -19,10 +19,10 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        mActivityComponent = DaggerActivityComponent.builder().
-                activityModule(new ActivityModule()).build();
-        mActivityComponent.inject(this);
-        ((TextView) findViewById(R.id.textView)).
-                setText("ID:" + mUserModel.getId() + " Name: " + mUserModel.getName() + "  Gender: " + mUserModel.getGender());
+//        mActivityComponent = DaggerActivityComponent.builder().
+//                activityModule(new ActivityModule()).build();
+//        mActivityComponent.inject(this);
+//        ((TextView) findViewById(R.id.textView)).
+//                setText("ID:" + mUserModel.getId() + " Name: " + mUserModel.getName() + "  Gender: " + mUserModel.getGender());
     }
 }
